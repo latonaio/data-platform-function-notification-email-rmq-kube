@@ -1,0 +1,1 @@
+# data-platform-function-notification-email-rmq-kube
